@@ -1,0 +1,10 @@
+{
+    "__Comments__" : "Scale: mm",
+    "display_size" : 25.4,
+    "lens_size_set" : [50, 16],
+    "lens_focal_length_set" : [40, 200],
+    "propagation distance_set" : [30.3, 5, 20],
+
+    "num_Rays" : 15,
+    "num_Point_sources" : 3
+}
